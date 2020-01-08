@@ -1,2 +1,2 @@
-# DoReMi-World
-Do Re Mi World, a mod for Terraria using tModLoader
+# ChadsReMi
+ChadsReMi, a mod for Terraria using tModLoader
